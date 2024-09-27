@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Lequangthien2004@gmail.com**
 
-- ⚡ Fun fact **I love the four noble truths**
+- ⚡ Fact: **I love the four noble truths**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
