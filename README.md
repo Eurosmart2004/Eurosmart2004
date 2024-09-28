@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang Thien Le</h1>
-<h3 align="center">👨‍🎓 Swinburne University Student | 💻 Passionate in Software Development & 🤖 Artificial Intelligence Enthusiast</h3>
+<h3 align="center">👨‍🎓 Swinburne University Student | 💻 Passionate in Software Development | 🤖 Artificial Intelligence Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurosmart2004&label=Profile%20views&color=0e75b6&style=flat" alt="eurosmart2004" /> </p>
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **Lequangthien2004@gmail.com**
 
-- ⚡ Fact: **I love the four noble truths**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
